@@ -5,7 +5,7 @@ Total hours so far: 0
 - [x] I have a 3D printer or will be getting one before March 21st
 
 ## March 2nd, 2025
-5:58pm: Time to start planning. I have literally no idea where to start or what to do, so I betetr figure that out first.
+5:48pm: Time to start planning. I have literally no idea where to start or what to do, so I betetr figure that out first.
 
 6:26pm: Finished making a basic sketch:
 
@@ -35,4 +35,4 @@ Still have no idea really where to start but to do some research!
 
 6:48pm: Started watching [https://www.youtube.com/watch?v=JdfztjEP_bI](https://www.youtube.com/watch?v=JdfztjEP_bI) to 1:53!
 
-**Time elapsed**: 5:58pm - 6:48pm
+**Time elapsed**: 5:48pm - 6:48pm
