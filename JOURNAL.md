@@ -33,4 +33,6 @@ And for some extra goals:
 
 Still have no idea really where to start but to do some research!
 
-**Time elapsed**: 5:58pm - 
+6:48pm: Started watching [https://www.youtube.com/watch?v=JdfztjEP_bI](https://www.youtube.com/watch?v=JdfztjEP_bI) to 1:53!
+
+**Time elapsed**: 5:58pm - 6:48pm
