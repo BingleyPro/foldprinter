@@ -17,4 +17,20 @@ Design #2 just another quick idea to test my brain. This does have a moving buil
 
 So far, I'm sticking with design #1.
 
-**Time elapsed**: 5:58PM - 
+6:38pm: Here are my current goals for this printer:
+- To be portable enough to fit in a suitcase
+- To be to survive being upside down and some jolting around (but not while printing!)
+- To be able to easily plug in and power the print
+- To be able to reliably fold and unfold the printer a million times
+- To be able to print with millimeter precision
+- To be easy enough for an end user to use.
+
+And for some extra goals:
+- Have an in-built battery (although, 3D printers take a lot of power so you wouldn't be able to run very long with this)
+- Have a touch screen for controlling the printer
+- Have a USB-A / micro-SD card slot for sending over designs
+- Have in-built storage with a micro-SD card (actually, isn't this a requirement because the printer has to be actively reading this?)
+
+Still have no idea really where to start but to do some research!
+
+**Time elapsed**: 5:58pm - 
